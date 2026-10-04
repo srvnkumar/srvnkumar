@@ -116,7 +116,7 @@ I lead cross‑functional teams across **development, cloud, DevOps, infrastruct
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srvnkumar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srvnkumarE&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srvnkumar&layout=compact&theme=tokyonight" />
 </p>
 
 ---
