@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Senior Technical Manager with **20+ years** of experience in **Java engineering, cloud migration, application modernization, DevOps, and technical delivery** across enterprise and startup environments. I specialize in **Java, Spring Boot, Quarkus, Microservices, AWS, Kubernetes, Terraform, CI/CD, DevSecOps, and IBM FileNet**.
+Senior Technical Manager with **10+ years** of experience in **Java engineering, cloud migration, application modernization, DevOps, and technical delivery** across enterprise and startup environments. I specialize in **Java, Spring Boot, Quarkus, Microservices, AWS, Kubernetes, Terraform, CI/CD, DevSecOps, and IBM FileNet**.
 
 I lead cross‑functional teams across **development, cloud, DevOps, infrastructure, security, testing, compliance, and business** to deliver scalable, secure, and modern applications.
 
@@ -90,12 +90,11 @@ I lead cross‑functional teams across **development, cloud, DevOps, infrastruct
 
 ---
 
-## 🏅 Certifications & Patents
+## 🏅 Certifications
 
 - AWS Certified Cloud Practitioner  
 - Java Certified Programmer  
-- SDAT – Software Design & Architecture (Siemens)  
-- Multiple IP Publications & Inventions  
+- SDAT – Software Design & Architecture (Siemens)   
 - ChatGPT Prompt Engineering  
 - AI Agents & Agentic AI with Python  
 
@@ -116,17 +115,17 @@ I lead cross‑functional teams across **development, cloud, DevOps, infrastruct
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srvnkumar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srvnkumarE&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- **Email:** v2saravana@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN  
-- **Phone:** +91 9849914092  
+- **Email:** v2saravana@gmail.com, v.saravana@gmail.com
+- **LinkedIn:** https://linkedin.com/in/saravanakumar-vinayakam-1000b516/
+
 
 ---
 
