@@ -92,7 +92,8 @@ I lead cross‑functional teams across **development, cloud, DevOps, infrastruct
 
 ## 🏅 Certifications
 
-- AWS Certified Cloud Practitioner  
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - associate 
 - Java Certified Programmer  
 - SDAT – Software Design & Architecture (Siemens)   
 - ChatGPT Prompt Engineering  
